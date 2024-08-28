@@ -9,7 +9,7 @@ export const site = {
 export const footer = {
     beian: {
         enabled: true,
-        value: '湘ICP备2024008881号'
+        value: '湘ICP备2024008888号'
     },
     live: {
         enabled: true,
