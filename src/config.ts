@@ -22,7 +22,7 @@ export const navs = [
         links: [
             {
                 name: '博客',
-                icon: '<img class="icon" src="/images/blog.dorakika.cn.png" alt="博客" />',
+                icon: '<img class="icon" src="https://ternura.cn/wp-content/uploads/2024/08/cropped-20240813160232253353.png" alt="博客" />',
                 href: 'https://ternura.cn',
             },{
                 name: 'Github',
@@ -60,10 +60,10 @@ export const mediaLink = {
         {
             name: 'Github',
             icon: '/svg/github.svg',
-            href: 'https://github.com/dorakika'
+            href: 'https://github.com/LinyuFiee'
         },{
             name: '博客',
-            icon: '/images/blog.dorakika.cn.png',
+            icon: 'https://ternura.cn/wp-content/uploads/2024/08/cropped-20240813160232253353.png',
             href: 'https://ternura.cn'
         },{
             name: 'mail',
