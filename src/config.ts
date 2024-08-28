@@ -48,7 +48,7 @@ export const aboutMe = {
 }
 
 export const project = {
-    github_name: 'LinyuFiee',
+    github_name: '#',
     filter_readme: false,
     filter_fork: false
 }
