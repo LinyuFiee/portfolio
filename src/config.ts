@@ -1,10 +1,10 @@
 export const site = {
-    author: 'DORAKIKA',
-    slogan: '热爱漫无边际，生活自有分寸',
+    author: 'LINYU',
+    slogan: '假装看不见，余光千百遍',
     description: '',
     keywords: '',
     favicon: '/favicon.ico',
-    url: 'https://dorakika.cn'
+    url: 'https://ternura.cn'
 }
 export const footer = {
     beian: {
