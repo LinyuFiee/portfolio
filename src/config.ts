@@ -68,7 +68,7 @@ export const mediaLink = {
         },{
             name: 'mail',
             icon: '/svg/mail.svg',
-            href: '2174476028@qq.com'
+            href: 'mailto:2174476028@qq.com'
         }
     ]
 }
